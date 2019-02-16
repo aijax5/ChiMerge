@@ -22,7 +22,7 @@ It follows below rules.
     > Should be normalized and reflected to formula in paper
 
 # References
-- https://www.aaai.org/Papers/AAAI/1992/AAAI92-019.pdf (https://www.aaai.org/Papers/AAAI/1992/AAAI92-019.pdf)
+- ChiMerge: Discretization of Numeric Attributes (https://www.aaai.org/Papers/AAAI/1992/AAAI92-019.pdf (https://www.aaai.org/Papers/AAAI/1992/AAAI92-019.pdf))
 - Discretization: An Enabling Technique (https://cs.nju.edu.cn/zhouzh/zhouzh.files/course/dm/reading/reading03/liu_dmkd02.pdf)
 
 TODO  
